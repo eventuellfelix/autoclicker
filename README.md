@@ -5,7 +5,7 @@ Just run the `.exe` – no setup required.
 
 ## 📥 Download
 
-You can find the latest version under the [Releases section](https://github.com/YOUR-NAME/YOUR-REPO/releases).
+You can find the latest version under the [Releases section](https://github.com/eventuellfelix/autoclicker/releases).
 
 ## ⚠️ License
 
